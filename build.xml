@@ -1,0 +1,7 @@
+<project name="entando-webapp-generic" default="WAR-build" basedir=".">
+	<description>entando-webapp-generic - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>

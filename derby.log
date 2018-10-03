@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Tue Sep 18 16:44:58 AEST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0165-eb6c-c34a-0000132a0330 
+Wed Oct 03 11:17:18 AEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0166-3780-29c7-000013242ce0 
 on database directory C:\dev\repos\entando\entando-webapp-generic\target\derby\production\entando-webapp-genericPort  with class loader ClassRealm[plugin>org.eclipse.jetty:jetty-maven-plugin:9.2.11.v20150529, parent: sun.misc.Launcher$AppClassLoader@33909752] 
 Loaded from file:/C:/Users/fubox/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
 java.vendor=Oracle Corporation
@@ -9,8 +9,8 @@ user.dir=C:\dev\repos\entando\entando-webapp-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Tue Sep 18 16:44:59 AEST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a05c0120-0165-eb6c-c34a-0000132a0330 
+Wed Oct 03 11:17:19 AEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a05c0120-0166-3780-29c7-000013242ce0 
 on database directory C:\dev\repos\entando\entando-webapp-generic\target\derby\production\entando-webapp-genericServ  with class loader ClassRealm[plugin>org.eclipse.jetty:jetty-maven-plugin:9.2.11.v20150529, parent: sun.misc.Launcher$AppClassLoader@33909752] 
 Loaded from file:/C:/Users/fubox/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
 java.vendor=Oracle Corporation
